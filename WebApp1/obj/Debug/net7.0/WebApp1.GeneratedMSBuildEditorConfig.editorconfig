@@ -40,6 +40,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/cslab/CapasApp/WebApp1/Views/Test1/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdDFcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/cslab/CapasApp/WebApp1/Views/Test1/Saludo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdDFcU2FsdWRvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
