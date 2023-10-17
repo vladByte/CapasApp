@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CapasApp2.props" />
+</Project>
