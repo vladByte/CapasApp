@@ -8,5 +8,11 @@ namespace CapasApp2.Controllers
         {
             return View();
         }
+
+        public IActionResult MedicamentosList()
+
+        {
+            return View();
+        }
     }
 }
