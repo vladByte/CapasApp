@@ -14,5 +14,9 @@ namespace CapasApp2.Controllers
         {
             return View();
         }
+        public string Saludo(string name)
+        {
+            return $"Hola {name}";
+        }
     }
 }
