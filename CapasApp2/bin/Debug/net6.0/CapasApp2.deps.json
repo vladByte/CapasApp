@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "CapasApp2/1.0.0": {
         "dependencies": {
+          "CapaNegocio": "1.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.16"
         },
         "runtime": {
@@ -2186,6 +2187,28 @@
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0"
         }
+      },
+      "CapaDatos/1.0.0": {
+        "dependencies": {
+          "CapaEntidad": "1.0.0"
+        },
+        "runtime": {
+          "CapaDatos.dll": {}
+        }
+      },
+      "CapaEntidad/1.0.0": {
+        "runtime": {
+          "CapaEntidad.dll": {}
+        }
+      },
+      "CapaNegocio/1.0.0": {
+        "dependencies": {
+          "CapaDatos": "1.0.0",
+          "CapaEntidad": "1.0.0"
+        },
+        "runtime": {
+          "CapaNegocio.dll": {}
+        }
       }
     }
   },
@@ -3517,6 +3540,21 @@
       "sha512": "sha512-5zJ0XDxAIg8iy+t4aMnQAu0MqVbqyvfoUVl1yDV61xdo3Vth45oA2FoY4pPkxYAH5f8ixpmTqXeEIya95x0aCQ==",
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
+    },
+    "CapaDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaEntidad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

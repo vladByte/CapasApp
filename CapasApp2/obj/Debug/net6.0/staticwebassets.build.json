@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZBZtqPP7j3RSkbkmqGtFkGZCOQ+MkHHIcz5My0g0c+g=",
+  "Hash": "c32lKOYl+iun5stKXKxfgk/K6+7OGrhzFAqjEodbFaM=",
   "Source": "CapasApp2",
   "BasePath": "_content/CapasApp2",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "D:\\cslab\\CapasApp\\CapasApp2\\wwwroot\\js\\tipo_medicamento.js",
+      "SourceId": "CapasApp2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\cslab\\CapasApp\\CapasApp2\\wwwroot\\",
+      "BasePath": "_content/CapasApp2",
+      "RelativePath": "js/tipo_medicamento.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\tipo_medicamento.js"
     },
     {
       "Identity": "D:\\cslab\\CapasApp\\CapasApp2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

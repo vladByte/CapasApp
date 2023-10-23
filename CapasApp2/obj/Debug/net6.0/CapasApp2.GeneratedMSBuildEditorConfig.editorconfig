@@ -24,20 +24,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/cslab/CapasApp/CapasApp2/Views/Medicamentos/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbWVudG9zXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/cslab/CapasApp/CapasApp2/Views/Medicamentos/MedicamentosList.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbWVudG9zXE1lZGljYW1lbnRvc0xpc3QuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/cslab/CapasApp/CapasApp2/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/cslab/CapasApp/CapasApp2/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cslab/CapasApp/CapasApp2/Views/TipoMedicamento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb01lZGljYW1lbnRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cslab/CapasApp/CapasApp2/Views/TipoMedicamento/MedicamentosList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb01lZGljYW1lbnRvXE1lZGljYW1lbnRvc0xpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/cslab/CapasApp/CapasApp2/Views/_ViewImports.cshtml]

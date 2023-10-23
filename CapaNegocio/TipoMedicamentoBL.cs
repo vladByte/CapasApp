@@ -1,4 +1,5 @@
-﻿using CapaEntidad;
+﻿using CapaDatos;
+using CapaEntidad;
 
 namespace CapaNegocio
 {
@@ -6,7 +7,9 @@ namespace CapaNegocio
     {
         public List<TipoMedicamentoCLS> listarMedicamentos()
         {
-            return listarMedicamentos();
+            TipoMedicamentoDAL obj = new TipoMedicamentoDAL();
+
+            return obj.ListarMedicamentos();
         }
     }
 }

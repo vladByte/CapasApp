@@ -1,4 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using CapaNegocio;  
+using CapaEntidad;
+using CapaDatos;
 
 namespace CapasApp2.Controllers
 {
@@ -6,7 +9,14 @@ namespace CapasApp2.Controllers
     {
         public IActionResult Index()
         {
+
             return View();
+        }
+
+        public List<TipoMedicamentoCLS> ListarTipoMedicamento()
+        { 
+            TipoMedicamentoBL obj = new TipoMedicamentoBL();
+            return obj.listarMedicamentos();
         }
     }
 }

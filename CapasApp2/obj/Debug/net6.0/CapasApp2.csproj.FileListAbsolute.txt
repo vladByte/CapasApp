@@ -253,3 +253,9 @@ D:\cslab\CapasApp\CapasApp2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Secu
 D:\cslab\CapasApp\CapasApp2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\cslab\CapasApp\CapasApp2\obj\Debug\net6.0\CapasApp2.csproj.AssemblyReference.cache
 D:\cslab\CapasApp\CapasApp2\obj\Debug\net6.0\CapasApp2.csproj.CopyComplete
+D:\cslab\CapasApp\CapasApp2\bin\Debug\net6.0\CapaDatos.dll
+D:\cslab\CapasApp\CapasApp2\bin\Debug\net6.0\CapaEntidad.dll
+D:\cslab\CapasApp\CapasApp2\bin\Debug\net6.0\CapaNegocio.dll
+D:\cslab\CapasApp\CapasApp2\bin\Debug\net6.0\CapaNegocio.pdb
+D:\cslab\CapasApp\CapasApp2\bin\Debug\net6.0\CapaDatos.pdb
+D:\cslab\CapasApp\CapasApp2\bin\Debug\net6.0\CapaEntidad.pdb

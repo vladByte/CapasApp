@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "D:\\cslab\\CapasApp\\CapasApp2\\wwwroot\\js\\tipo_medicamento.js",
+      "PackagePath": "staticwebassets\\js\\tipo_medicamento.js"
+    },
+    {
       "Id": "D:\\cslab\\CapasApp\\CapasApp2\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },

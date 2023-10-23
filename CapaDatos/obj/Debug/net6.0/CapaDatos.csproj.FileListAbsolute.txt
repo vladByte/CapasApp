@@ -1,0 +1,15 @@
+D:\cslab\CapasApp\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+D:\cslab\CapasApp\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+D:\cslab\CapasApp\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+D:\cslab\CapasApp\CapaDatos\bin\Debug\net6.0\CapaEntidad.dll
+D:\cslab\CapasApp\CapaDatos\bin\Debug\net6.0\CapaEntidad.pdb
+D:\cslab\CapasApp\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+D:\cslab\CapasApp\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\cslab\CapasApp\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+D:\cslab\CapasApp\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+D:\cslab\CapasApp\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+D:\cslab\CapasApp\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CopyComplete
+D:\cslab\CapasApp\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+D:\cslab\CapasApp\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+D:\cslab\CapasApp\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+D:\cslab\CapasApp\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
