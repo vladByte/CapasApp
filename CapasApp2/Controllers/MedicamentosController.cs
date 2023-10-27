@@ -12,11 +12,8 @@ namespace CapasApp2.Controllers
         public IActionResult MedicamentosList()
 
         {
-            return View();
+            return View("Medicamentos/MedicamentosList");
         }
-        public string Saludo(string name)
-        {
-            return $"Hola {name}";
-        }
+     
     }
 }

@@ -2,10 +2,11 @@
     listarTipoMedicamento();
 }
 
-async function listarTipoMedicamento() {
 
-    let res = await fetch("TipoMedicamento/ListarTipoMedicamento")
-        .then(res => res.json())
-        .then(res => console.log(res))
-        .catch(err => console.error(err));
+function listarTipoMedicamento() {
+
+    medicamentosGet("TipoMedicamento/ListarTipoMedicamento", "json", function (res) {
+        alert(res);
+        alert(JSON.stringify(res));
+    });
 }

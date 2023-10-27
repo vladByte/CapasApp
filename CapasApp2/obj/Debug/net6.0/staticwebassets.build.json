@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "c32lKOYl+iun5stKXKxfgk/K6+7OGrhzFAqjEodbFaM=",
+  "Hash": "GbVNarYdYP2CLYg6tq1lzoWIZwhF/H8TwAppjW0q210=",
   "Source": "CapasApp2",
   "BasePath": "_content/CapasApp2",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\cslab\\CapasApp\\CapasApp2\\wwwroot\\js\\Helpers.js",
+      "SourceId": "CapasApp2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\cslab\\CapasApp\\CapasApp2\\wwwroot\\",
+      "BasePath": "_content/CapasApp2",
+      "RelativePath": "js/Helpers.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Helpers.js"
     },
     {
       "Identity": "D:\\cslab\\CapasApp\\CapasApp2\\wwwroot\\js\\site.js",
