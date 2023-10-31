@@ -17,5 +17,10 @@ namespace CapasApp2.Controllers
             TipoMedicamentoBL obj = new TipoMedicamentoBL();
             return obj.listarMedicamentos();
         }
+
+        public string Saludo(string name)
+        {
+            return $"Saludos {name}";
+        }
     }
 }

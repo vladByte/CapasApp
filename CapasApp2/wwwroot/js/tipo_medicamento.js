@@ -5,8 +5,7 @@
 
 function listarTipoMedicamento() {
 
-    medicamentosGet("TipoMedicamento/ListarTipoMedicamento", "json", function (res) {
-        alert(res);
+    fetchGet("TipoMedicamento/ListarTipoMedicamento", "json", function (res) {
         alert(JSON.stringify(res));
     });
 }

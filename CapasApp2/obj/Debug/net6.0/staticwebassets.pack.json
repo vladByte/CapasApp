@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\Helpers.js"
     },
     {
+      "Id": "D:\\cslab\\CapasApp\\CapasApp2\\wwwroot\\js\\medicamentos.js",
+      "PackagePath": "staticwebassets\\js\\medicamentos.js"
+    },
+    {
       "Id": "D:\\cslab\\CapasApp\\CapasApp2\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GbVNarYdYP2CLYg6tq1lzoWIZwhF/H8TwAppjW0q210=",
+  "Hash": "V/IJBcue3dfiKFnbKJsCktrx+YVju4wKF1qOyJ2V2/8=",
   "Source": "CapasApp2",
   "BasePath": "_content/CapasApp2",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Helpers.js"
+    },
+    {
+      "Identity": "D:\\cslab\\CapasApp\\CapasApp2\\wwwroot\\js\\medicamentos.js",
+      "SourceId": "CapasApp2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\cslab\\CapasApp\\CapasApp2\\wwwroot\\",
+      "BasePath": "_content/CapasApp2",
+      "RelativePath": "js/medicamentos.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\medicamentos.js"
     },
     {
       "Identity": "D:\\cslab\\CapasApp\\CapasApp2\\wwwroot\\js\\site.js",
