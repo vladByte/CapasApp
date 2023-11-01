@@ -11,7 +11,7 @@ namespace CapaDatos
             lista.Add(new TipoMedicamentoCLS { 
                 IdTipoMedicamento = 1, 
                 Nombre = "Analgesicos",
-                Descripcion = "Alivia el resfriado comun"
+                Descripcion = "Alivia el dolor"
                 
             }); 
 
@@ -19,6 +19,13 @@ namespace CapaDatos
                 IdTipoMedicamento = 2, 
                 Nombre = "Anti Alergicos",
                 Descripcion = "Alivia el resfriado comun"
+                
+            });
+
+            lista.Add(new TipoMedicamentoCLS { 
+                IdTipoMedicamento = 3, 
+                Nombre = "Antibioticos",
+                Descripcion = "Contra patogenos e infecciones"
                 
             }); 
 

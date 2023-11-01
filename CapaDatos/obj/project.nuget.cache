@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4ldcdJ6aEGcv5+k3MmU9fE2+zTrEBINOQ9Ng/K/2vCQkMoytAnK5qw/wLv2zHZkzJjE3Hoj1B24urrvjHCQXZQ==",
+  "dgSpecHash": "d3cV6eHQQiqWmSigVrYY+X1Vk2Laom9wIohv7w6IpgFJ5DdP9X7PwVL+xmFPPLg67ufOH6QUPkfs1eJSx9vV0A==",
   "success": true,
-  "projectFilePath": "D:\\cslab\\CapasApp\\CapaDatos\\CapaDatos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\laragon\\www\\cslab\\AspNetCore\\CapasApp\\CapaDatos\\CapaDatos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladj\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\vladj\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\vladj\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+  ],
   "logs": []
 }

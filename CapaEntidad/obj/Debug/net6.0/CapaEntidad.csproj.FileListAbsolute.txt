@@ -9,3 +9,14 @@ D:\cslab\CapasApp\CapaEntidad\obj\Debug\net6.0\CapaEntidad.dll
 D:\cslab\CapasApp\CapaEntidad\obj\Debug\net6.0\refint\CapaEntidad.dll
 D:\cslab\CapasApp\CapaEntidad\obj\Debug\net6.0\CapaEntidad.pdb
 D:\cslab\CapasApp\CapaEntidad\obj\Debug\net6.0\ref\CapaEntidad.dll
+C:\laragon\www\cslab\AspNetCore\CapasApp\CapaEntidad\bin\Debug\net6.0\CapaEntidad.deps.json
+C:\laragon\www\cslab\AspNetCore\CapasApp\CapaEntidad\bin\Debug\net6.0\CapaEntidad.dll
+C:\laragon\www\cslab\AspNetCore\CapasApp\CapaEntidad\bin\Debug\net6.0\CapaEntidad.pdb
+C:\laragon\www\cslab\AspNetCore\CapasApp\CapaEntidad\obj\Debug\net6.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\cslab\AspNetCore\CapasApp\CapaEntidad\obj\Debug\net6.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\laragon\www\cslab\AspNetCore\CapasApp\CapaEntidad\obj\Debug\net6.0\CapaEntidad.AssemblyInfo.cs
+C:\laragon\www\cslab\AspNetCore\CapasApp\CapaEntidad\obj\Debug\net6.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\laragon\www\cslab\AspNetCore\CapasApp\CapaEntidad\obj\Debug\net6.0\CapaEntidad.dll
+C:\laragon\www\cslab\AspNetCore\CapasApp\CapaEntidad\obj\Debug\net6.0\refint\CapaEntidad.dll
+C:\laragon\www\cslab\AspNetCore\CapasApp\CapaEntidad\obj\Debug\net6.0\CapaEntidad.pdb
+C:\laragon\www\cslab\AspNetCore\CapasApp\CapaEntidad\obj\Debug\net6.0\ref\CapaEntidad.dll
