@@ -46,23 +46,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vladj\\.nuget\\packages\\": {},
+    "C:\\Users\\vjerez\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\laragon\\www\\cslab\\AspNetCore\\CapasApp\\CapaNegocio\\CapaNegocio.csproj",
+      "projectUniqueName": "D:\\cslab\\CapasApp\\CapaNegocio\\CapaNegocio.csproj",
       "projectName": "CapaNegocio",
-      "projectPath": "C:\\laragon\\www\\cslab\\AspNetCore\\CapasApp\\CapaNegocio\\CapaNegocio.csproj",
-      "packagesPath": "C:\\Users\\vladj\\.nuget\\packages\\",
-      "outputPath": "C:\\laragon\\www\\cslab\\AspNetCore\\CapasApp\\CapaNegocio\\obj\\",
+      "projectPath": "D:\\cslab\\CapasApp\\CapaNegocio\\CapaNegocio.csproj",
+      "packagesPath": "C:\\Users\\vjerez\\.nuget\\packages\\",
+      "outputPath": "D:\\cslab\\CapasApp\\CapaNegocio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\vladj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vjerez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -76,11 +79,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\laragon\\www\\cslab\\AspNetCore\\CapasApp\\CapaDatos\\CapaDatos.csproj": {
-              "projectPath": "C:\\laragon\\www\\cslab\\AspNetCore\\CapasApp\\CapaDatos\\CapaDatos.csproj"
+            "D:\\cslab\\CapasApp\\CapaDatos\\CapaDatos.csproj": {
+              "projectPath": "D:\\cslab\\CapasApp\\CapaDatos\\CapaDatos.csproj"
             },
-            "C:\\laragon\\www\\cslab\\AspNetCore\\CapasApp\\CapaEntidad\\CapaEntidad.csproj": {
-              "projectPath": "C:\\laragon\\www\\cslab\\AspNetCore\\CapasApp\\CapaEntidad\\CapaEntidad.csproj"
+            "D:\\cslab\\CapasApp\\CapaEntidad\\CapaEntidad.csproj": {
+              "projectPath": "D:\\cslab\\CapasApp\\CapaEntidad\\CapaEntidad.csproj"
             }
           }
         }
@@ -105,20 +108,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.21, 6.0.21]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.21, 6.0.21]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.21, 6.0.21]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
