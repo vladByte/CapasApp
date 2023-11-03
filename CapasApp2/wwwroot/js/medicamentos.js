@@ -7,4 +7,5 @@ function listarMedicamentos() {
     fetchGet("Medicamentos/MedicamentosList", "json", function (res) {
 
         return res;
-    }
+    });
+}

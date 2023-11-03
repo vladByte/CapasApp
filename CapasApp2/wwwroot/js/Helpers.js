@@ -1,33 +1,30 @@
-﻿//Funciones Generales.
-
-async function fetchGet(url, tipoRespuesta, callback)
-{
+﻿// Varibles Globales:
 
     var objConfiguracionGlobal;
 
-    pintar({
-        url: "TipoMedicamento/ListarTipoMedicamento",
-        nomColumnas: ["id Tipo Medicamento", "Nombre","Descripcion"],
-        propiedades: ["idTipoMedicamento", "nombre","descripcion"],
-    });
+//Funciones Generales:
 
-
+async function fetchGet(url, tipoRespuesta, callback)
+{
     try
     {
         let raiz = document.getElementById('hdfOculto').value.trim();
         let baseUrl = `${window.location.protocol}//${window.location.host}${raiz}/${url}`;
         let res = await fetch(baseUrl);
-        console.log("Respuesta: ", res);
-        if (tipoRespuesta == 'json') res = await res.json();
-        else if (tipoRespuesta == 'text') res = await res.text();
+        if (tipoRespuesta == 'json')
+            res = await res.json();
+        else if (tipoRespuesta == 'text')
+            res = await res.text();
         //JSON (Object)
         callback(res);  
     }       
-    catch(e)
+    catch (e)
     {
         alert(`Error al listar los elementos: ${e}`);
     }
 }
+
+
 
 /**
     * params  : res (array[{}])
@@ -79,12 +76,12 @@ function generarTabla(res) {
 function pintar(objConfiguracion) {
 
     objConfiguracionGlobal = objConfiguracion
+
     fetchGet(`${objConfiguracion.url}`, "json", function (res) {
 
         let contenido = "";
         contenido += generarTabla(res);
         document.getElementById("divTabla").innerHTML = contenido;
-
 
     });
 
