@@ -10,9 +10,7 @@ async function fetchGet(url, tipoRespuesta, callback)
     {
         let raiz = document.getElementById('hdfOculto').value.trim();
         let baseUrl = `${window.location.protocol}//${window.location.host}${raiz}/${url}`;
-        console.log("Base", baseUrl);
         let res = await fetch(baseUrl);
-        console.log("Res", res);
         if (tipoRespuesta == 'json')
             res = await res.json();
         else if (tipoRespuesta == 'text')
@@ -46,12 +44,7 @@ function generarTabla(res) {
     for (let i = 0; i < cabecera.length; i++)
     {
         item = cabecera[i];
-       
-        console.log("Item: ", item);
-
-        //contenido += `<td>${item}</td>`;
-        //contenido += `<td>${item}</td>`;
-        //contenido += `<td>${item}</td>`;
+      
         contenido += '<td>' + item + '</td>';
     };
     contenido += '</tr>';
@@ -74,6 +67,7 @@ function generarTabla(res) {
     contenido += '</tbody>';
     contenido += '</table>';
 
+    return contenido;
 }
 
 /**
@@ -88,7 +82,9 @@ function pintar(objConfiguracion) {
     fetchGet(`${objConfiguracion.url}`, "json", function (res) {
 
         let contenido = "";
+        contenido += "<div id='contenedorTabla'>";
         contenido += generarTabla(res);
+        contenido += "</div>";
         document.getElementById("divTabla").innerHTML = contenido;
 
     });
