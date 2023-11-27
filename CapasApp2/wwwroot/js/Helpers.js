@@ -76,7 +76,6 @@ function generarTabla(res) {
 */
 function pintar(objConfiguracion) {
     
-    console.log("Funcion Pintar invocada");
     objConfiguracionGlobal = objConfiguracion
 
     fetchGet(`${objConfiguracion.url}`, "json", function (res) {
